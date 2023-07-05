@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    height:80px;
+    background-color:aquamarine;
+    color:blue;
+    text-align:center;
+    padding-top:10px;
+}
+
+    .navigation{
+        height:50px;
+        background-color:khaki;
+        color:red;
+        text-align: center;
+        padding-top:8px;
+    }
+
+        .mainsection{
+            display:flex;
+            text-align: center;
+        }
+        .article{
+            width:70%;
+            height:300px;
+            background-color: white;
+            color:red;
+        }
+        .aside{
+            width:30%;
+            height:320px;
+            background-color: rgb(191, 90, 161);
+            color:rgb(34, 24, 24);
+        }
+
+            .small{
+                height:150px;
+                width:100%;
+                background-color: lightcoral;
+                color:saddlebrown;
+            }
+            .little{
+                height:150px;
+                width:100%;
+                background-color: rgb(48, 24, 204);
+                color:rgb(246, 243, 241);
+            }
+
+                .headerside{
+                    height:75px;
+                    width:100%;
+                    background-color: turquoise;
+                    color:black;
+                }
+                .articleside{
+                    height:75px;
+                    width:100%;
+                    background-color: rgb(94, 86, 61);
+                    color:rgb(48, 8, 8);
+                }
+
+                .headersidex{
+                    height:75px;
+                    width:100%;
+                    background-color: rgb(143, 14, 228);
+                    color:black;
+                    margin-top:20px;
+                }
+                .articlesidex{
+                    height:75px;
+                    width:100%;
+                    background-color: rgb(25, 162, 220);
+                    color:black;
+                }
+
+                footer{
+                    text-align: center;
+                    height:100px;
+                    background-color: yellow;
+                    padding-top:15px;
+                }
